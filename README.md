@@ -1,2 +1,11 @@
-# Tesla-fin-data-analysis
-Tesla Financial Data Analysis
+## Financial Data Analysis Project
+
+#### Purpose: **Stock and revenue analysis of Tesla, Inc.**
+
+###### Coding Language:
+##### Python
+###### Platform:
+##### Jupyter Notebook
+##
+###### Code :  
+##### Tesla_fin_data_analysis.ipynb  
