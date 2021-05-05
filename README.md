@@ -9,3 +9,5 @@
 ##
 ###### Code :  
 ##### Tesla_fin_data_analysis.ipynb  
+###### Graph image :  
+##### Tesla_plot.png
